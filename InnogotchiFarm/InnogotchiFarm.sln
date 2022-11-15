@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnogotchiFarm", "InnogotchiFarm\InnogotchiFarm.csproj", "{DBC3A1A8-C2A7-472C-9AD7-669BC42306B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnogotchiFarm.API", "InnogotchiFarm\InnogotchiFarm.API.csproj", "{DBC3A1A8-C2A7-472C-9AD7-669BC42306B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
